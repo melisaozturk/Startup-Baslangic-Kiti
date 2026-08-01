@@ -7,8 +7,8 @@ Kendi startup yolculuğumdan esinlenerek hazırladığım bir rehber.
 # Amaç: 
 Startup fikrinizi en düşük eforla ve en yüksek verimlilikle MVP’ye dönüştürmek.
 
-![Preview] (<img width="828" height="698" alt="Screenshot 2026-08-01 at 18 47 39" src="https://github.com/user-attachments/assets/2a351c6e-5839-4688-b854-5aec1b240d32" />)
-![Preview] (<img width="1100" height="631" alt="Screenshot 2026-08-01 at 18 48 00" src="https://github.com/user-attachments/assets/e6b9e062-5e53-45ef-bd0b-b884430e836e" />)
+<img width="828" height="698" alt="Screenshot 2026-08-01 at 18 47 39" src="https://github.com/user-attachments/assets/2a351c6e-5839-4688-b854-5aec1b240d32" />
+<img width="1100" height="631" alt="Screenshot 2026-08-01 at 18 48 00" src="https://github.com/user-attachments/assets/e6b9e062-5e53-45ef-bd0b-b884430e836e" />
 
 
 
